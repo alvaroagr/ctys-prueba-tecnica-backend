@@ -64,4 +64,4 @@ y posteriormente `npm start`. Se desplegara el backend en la dirección `http://
 
 ## Frontend
 
-Para ver como de despliega el frontend, es necesario clonar **este proyecto**.
+Para ver como de despliega el frontend, es necesario clonar [este proyecto](https://github.com/alvaroagr/ctys-prueba-tecnica-frontend).
